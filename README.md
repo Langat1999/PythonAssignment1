@@ -1,5 +1,6 @@
-#![Calculator math education line icon Premium Vector…](https://github.com/user-attachments/assets/d6bccbf0-201e-4639-aa03-68ee3eb528f2)
- 🧮 Langat-style Calculator Bot
+![Calculator math education line icon Premium Vector…](https://github.com/user-attachments/assets/d6bccbf0-201e-4639-aa03-68ee3eb528f2)
+
+# 🧮 Langat-style Calculator Bot
 
 A friendly and interactive command-line calculator built with Python! This bot handles basic math operations with user-friendly prompts, emoji flair, and Kiswahili-English hybrid messaging for a uniquely local experience. 
 
